@@ -1,6 +1,6 @@
 # Meu Portfólio de Análise de Dados e Power BI
 
-Olá! Sou [Seu Nome], um analista de dados e desenvolvedor de relatórios Power BI apaixonado por transformar dados em insights acionáveis. Minha experiência abrange limpeza, modelagem, análise e visualização de dados para impulsionar decisões estratégicas.
+Olá! Sou Lucas Carneiro, um analista de dados e apaixonado por transformar dados em insights acionáveis. Minha experiência abrange limpeza, modelagem, análise e visualização de dados para impulsionar decisões estratégicas.
 
 ---
 
@@ -30,5 +30,5 @@ Comparativo orçado vs. realizado e análise de despesas para controle financeir
 
 ## Contato
 
-* LinkedIn: [Seu Perfil do LinkedIn]
-* Email: seu.email@example.com
+* [LinkedIn](https://www.linkedin.com/in/lucas-carneiro-69867911b/)
+* Email: Carneirolucas11@gmail.com
