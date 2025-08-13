@@ -22,7 +22,7 @@ Comparativo orçado vs. realizado e análise de despesas para controle financeir
 
 ## Habilidades Técnicas
 
-* **Ferramentas BI:** Power BI, Tableau (se aplicável)
+* **Ferramentas BI:** Power BI, Tableau
 * **Linguagens:** SQL, Python (Pandas, Matplotlib, Seaborn)
 * **Conceitos:** ETL, Modelagem de Dados, DAX, Análise Estatística, Storytelling com Dados
 
